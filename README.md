@@ -1,2 +1,2 @@
 # Hungry-Hungry-Cat
-This is the first video game I ever made, in Weber State Summer Games 2016.
+This is the first video game I ever made, at Weber State Summer Games 2016.
